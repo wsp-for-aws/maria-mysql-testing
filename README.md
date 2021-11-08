@@ -1,0 +1,1 @@
+# Docker image for testing [WSP AWS platform](https://wsp-aws.io/)
